@@ -1,0 +1,1 @@
+/Users/node/Desktop/super-rentals/app/components/rental-listing.js

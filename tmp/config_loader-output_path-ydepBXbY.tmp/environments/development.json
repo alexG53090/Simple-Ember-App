@@ -1,0 +1,1 @@
+{"modulePrefix":"super-rentals","environment":"development","baseURL":"/","locationType":"auto","EmberENV":{"FEATURES":{}},"APP":{"name":"super-rentals","version":"0.0.0+79df9201"},"ember-cli-mirage":{"usingProxy":false},"exportApplicationGlobal":true}

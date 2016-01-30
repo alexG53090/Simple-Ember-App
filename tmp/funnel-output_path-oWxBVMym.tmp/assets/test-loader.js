@@ -1,0 +1,1 @@
+/Users/node/Desktop/super-rentals/tmp/funnel-input_base_path-XwEo2oZv.tmp/0/bower_components/ember-cli-test-loader/test-loader.js

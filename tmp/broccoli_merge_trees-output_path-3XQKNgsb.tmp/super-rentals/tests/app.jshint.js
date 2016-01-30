@@ -1,0 +1,1 @@
+/Users/node/Desktop/super-rentals/tmp/broccoli_merge_trees-input_base_path-t832Wkrm.tmp/1/super-rentals/tests/app.jshint.js
